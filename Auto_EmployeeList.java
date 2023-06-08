@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-// 불침번 프로그램 (베타1 완성버전)
+// 불침번 프로그램 베타1.4 (완성버전)
 class Auto_EmployeeList {
     public static void main (String[] args) throws java.lang.Exception {
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
